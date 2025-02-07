@@ -1,0 +1,1 @@
+# Winding-configuration-optimation-for-unipolar-gradient-coil-in-7T-3T
