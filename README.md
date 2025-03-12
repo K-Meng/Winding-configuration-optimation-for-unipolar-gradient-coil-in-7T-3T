@@ -1,5 +1,7 @@
 # Winding-configuration-optimation-for-unipolar-gradient-coil-in-7T-3T
 
+The main part of the code is derived from Dr. Jeroen Siero.
+
 The parameters file contains the parameters required for optimization. main_checkthisone is the optimization program to be used for 7T, while draw_checkthisone includes some additional drawing functions.  
 
 Files starting with T_ are programs designed for 3T scanners. Compared to 7T, since 3T scanners have more space, magnetic field homogeneity was introduced as an objective function. However, the optimization results were suboptimal.  
